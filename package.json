@@ -8,10 +8,12 @@
     "css:scss": "sass --style=compressed src/scss/index.scss dist/style.css",
     "css:autoprefixer": "postcss -u autoprefixer -r dist/*.css",
     "css:lint": "stylelint src/scss/*.scss --custom-syntax postcss-scss",
-    "build:css": "npm run css:lint && npm run css:scss && npm run css:autoprefixer"
+    "build:css": "npm run css:lint && npm run css:scss && npm run css:autoprefixer",
+    "build:images": "imagemin src/images/**/* --out-dir=dist/images"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "imagemin-cli": "^8.0.0",
     "node-sass": "^9.0.0",
     "postcss-cli": "^11.0.0",
     "postcss-scss": "^4.0.9",
