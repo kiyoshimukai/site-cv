@@ -1,0 +1,30 @@
+{
+    "nom": "Kiyoshi Mukaï",
+    "postes": [
+        {
+            "titre": "Technicien en communication",
+            "entreprise": "Association paritaire pour la santé et la sécurité au travail du secteur affaires sociales (ASSTSAS)",
+            "lieu": "Anjou, Qué.",
+            "dates": "Depuis juillet 2024",
+            "taches": [
+                "J’agite mes mains magiques pour créer des belles choses"
+            ]
+        },
+        {
+            "titre": "Coordonnateur marketing numérique",
+            "entreprise": "Toc Toc Communications",
+            "lieu": "Montréal, Qué.",
+            "dates": "Avril 2022 è juin 2024",
+            "taches": [
+                "Créer des campagnes publicitaires de marque et soutenir les équipes de marketing en coordonnant et en rassemblant le contenu",
+                "Travailler en étroite collaboration avec les chargées de projets, les gestionnaires de comptes et autres fournisseurs pour réaliser leurs projets",
+                "Faire de la recherche SEO et la combiner avec les statistiques de Google Analytics pour déterminer le ton et l’angle du contenu et la nouvelle stratégie numérique",
+                "Créer des architectures des sites et faire des propositions aux clients",
+                "Préparer des soumissions d’assurance qualité au Conseil consultatif de publicité pharmaceutique (CCPP)",
+                "Coordonner avec les designers pour peaufiner des maquettes et mises en pages pour nos clients",
+                "Gérer les rédactrices médicales, programmeurs et clients pour arriver à des conclusions sur la diffusion de contenu pharmaceutique numérique",
+                "Établir un calendrier de production et échéancier pour gérer le contenu produit par les rédactrices médicales"
+            ]
+        }
+    ]
+}

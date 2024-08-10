@@ -1,0 +1,10 @@
+<h1>CV de <%= cv_cafr.nom %></h1>
+
+<% cv_cafr.postes.forEach(function(postes) { %>
+    <h2><%= postes.titre %> chez <%= postes.entreprise %> à <%= postes.lieu %> (<%= postes.dates %>)</h2>
+    <ul>
+        <% postes.taches.forEach(function(taches) { %>
+            <li><%= taches %></li>
+        <% }); %>
+    </ul>
+<% }); %>
