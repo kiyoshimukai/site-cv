@@ -4,7 +4,19 @@
   "description": "Ce site est pour montrer mon CV et pour m'enseigner comment constuire un site en utilisant NPM",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css:scss": "sass --style=compressed src/scss/index.scss dist/style.css",
+    "css:autoprefixer": "postcss -u autoprefixer -r dist/*.css",
+    "css:lint": "stylelint src/scss/*.scss --custom-syntax postcss-scss",
+    "build:css": "npm run css:lint && npm run css:scss && npm run css:autoprefixer"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "node-sass": "^9.0.0",
+    "postcss-cli": "^11.0.0",
+    "postcss-scss": "^4.0.9",
+    "sass": "^1.77.8",
+    "stylelint": "^16.8.1"
   },
   "author": "Kiyoshi Mukaï",
   "license": "ISC"
