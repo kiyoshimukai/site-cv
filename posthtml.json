@@ -1,0 +1,11 @@
+{
+    "input": "src/vues/*.html",
+    "output": "dist",
+    "plugins": {
+        "posthtml-modules": {
+            "root": "./src/vues",
+            "initial": true
+        },
+        "htmlnano": {}
+    }
+}
