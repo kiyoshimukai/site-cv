@@ -1,0 +1,11 @@
+{
+  "name": "site-cv",
+  "version": "1.0.0",
+  "description": "Ce site est pour montrer mon CV et pour m'enseigner comment constuire un site en utilisant NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiyoshi Mukaï",
+  "license": "ISC"
+}
