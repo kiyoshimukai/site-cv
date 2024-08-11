@@ -4,6 +4,7 @@
     "plugins": {
         "posthtml-modules": {
             "root": "./src/vues",
+            "from": "./src/vues/composants",
             "initial": true
         },
         "htmlnano": {}
