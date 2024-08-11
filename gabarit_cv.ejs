@@ -1,7 +1,8 @@
 <h1>CV de <%= cv_cafr.nom %></h1>
 
 <% cv_cafr.postes.forEach(function(postes) { %>
-    <h2><%= postes.titre %> chez <%= postes.entreprise %> à <%= postes.lieu %> (<%= postes.dates %>)</h2>
+    <h2><%= postes.titre %> chez <%= postes.entreprise %></h2>
+    <h3><%= postes.lieu %> (<%= postes.dates %>)</h3>
     <ul>
         <% postes.taches.forEach(function(taches) { %>
             <li><%= taches %></li>

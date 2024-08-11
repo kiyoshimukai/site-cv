@@ -14,7 +14,7 @@
             "titre": "Coordonnateur marketing numérique",
             "entreprise": "Toc Toc Communications",
             "lieu": "Montréal, Qué.",
-            "dates": "Avril 2022 è juin 2024",
+            "dates": "Avril 2022 à juin 2024",
             "taches": [
                 "Créer des campagnes publicitaires de marque et soutenir les équipes de marketing en coordonnant et en rassemblant le contenu",
                 "Travailler en étroite collaboration avec les chargées de projets, les gestionnaires de comptes et autres fournisseurs pour réaliser leurs projets",
@@ -24,6 +24,85 @@
                 "Coordonner avec les designers pour peaufiner des maquettes et mises en pages pour nos clients",
                 "Gérer les rédactrices médicales, programmeurs et clients pour arriver à des conclusions sur la diffusion de contenu pharmaceutique numérique",
                 "Établir un calendrier de production et échéancier pour gérer le contenu produit par les rédactrices médicales"
+            ]
+        },
+        {
+            "titre": "Caissier-Barista",
+            "entreprise": "Farine et Vanille",
+            "lieu": "Montréal, Qué.",
+            "dates": "Mars 2022",
+            "taches": [
+                "Servir les clientes et les clients du Mile End en français et comprendre le rythme de travail au Québec",
+                "Maintenir une boulangerie pendant l’après-midi avant d’assurer la fermeture pour la nuit",
+                "Gagner de l’expérience québécoise pendant que je travaillais avec des services à l’aide aux immigrants pour trouver un emploi dans mon domaine au Québec"
+            ]
+        },
+        {
+            "titre": "Producteur et responsable de contenu Web",
+            "entreprise": "Société américaine de physique",
+            "lieu": "College Park, Maryland, É.-U.",
+            "dates": "Novembre 2019 à janvier 2022",
+            "taches": [
+                "Refaire la structure, design et stratégie du contenu pour les sites gérés par la société",
+                "Faire des analyses et mises à jour sur le site principal de l’association en suggérant des nouvelles méthodes d’approche",
+                "Proposer et créer des nouvelles mises en page afin de mieux déterminer comment bien présenter le contenu pour que les gens puissent facilement trouver ce dont ils avaient besoin tout en améliorant l'expérience d'internaute",
+                "Réviser et éditer les textes des pages pour rendre le ton et l’angle plus appropriés pour le marketing en ligne",
+                "Aider les lancements et les transitions des nouveaux sites et en assurer la qualité",
+                "Construire un calendrier de production interne pour mieux nous permettre de maintenir les pages à jour"
+            ]
+        },
+        {
+            "titre": "Gérant principal des communications numériques",
+            "entreprise": "Project HOPE",
+            "lieu": "Bethesda, Maryland, É.-U.",
+            "dates": "Mars 2018 à octobre 2019",
+            "taches": [
+                "Diriger la transition du site Web et garder toutes nos équipes au courant de la stratégie du contenu",
+                "Planifier l’apparition des communiqués de presse et articles en ligne sur la page d’accueil",
+                "Implémenter le nouveau style de la marque",
+                "Rédiger des publications sur les réseaux sociaux pour promouvoir les nouvelles sur la santé mondiale",
+                "Aider notre équipe de levés de fonds avec le contenu de leurs courriels et pages sollicitant des dons",
+                "Rédiger des rapports des statistiques du trafic Web pour améliorer notre optimisation pour les moteurs de recherche (SEO) et augmenter notre recherche organique",
+                "Suivre les actions des éléments de page pour comprendre le cheminement de nos visiteurs et présenter notre recherche aux chefs de l’organisation"
+            ]
+        },
+        {
+            "titre": "Spécialiste en soutien et systèmes Web",
+            "entreprise": "Association américaine de science politique",
+            "lieu": "Washington, District de Colombia, É.-U.",
+            "dates": "Mars 2015 à mars 2018",
+            "taches": [
+                "Aider la transition du site principal de l'association et lancer deux nouveaux sites d'actualité et de communauté",
+                "Installer et configurer des thèmes et réglages des serveurs pour une installation multi-site de WordPress",
+                "Fournir des photos, séquences éditées, baladodiffusions et articles pour PoliticalScienceNow.com",
+                "Traduire des sondages et publicités en français pour nos membres québécois",
+                "Concevoir un prospectus avec InDesign destiné aux exposants de la conférence",
+                "Suivre des analytiques des sites y compris les visites de pages et les taux de clics",
+                "Créer des courriels de marketing et les envoyer aux listes des membres tirées de la base de données"
+            ]
+        },
+        {
+            "titre": "Designer Web (contrat)",
+            "entreprise": "Université Georgetown",
+            "lieu": "Washington, District de Colombia, É.-U.",
+            "dates": "Octobre 2014 à mars 2015",
+            "taches": [
+                "Concevoir et développer des modèles de courriels pour la faculté de commerce",
+                "Créer du contenu imprimé tel que les dépliants et affiches",
+                "Maintenir et organiser du contenu WordPress et Drupal et configurer des serveurs Web",
+                "Consulter les autres départements pour les aider avec la promotion de leurs programmes"
+            ]
+        },
+        {
+            "titre": "Intégrateur Web I (contrat)",
+            "entreprise": "iQ Solutions",
+            "lieu": "Rockville, Maryland, É.-U.",
+            "dates": "Avril 2014 à octobre 2014",
+            "taches": [
+                "Contrôler la qualité des sites Web pour l’industrie de la santé y compris des agences gouvernementales étatsuniennes",
+                "Créer des courriels de marketing et mettre à jour des pages Web",
+                "Assurer des standards Web et de la compatibilité avec un éventail des navigateurs",
+                "Assurer le niveau d’accessibilité requis par le gouvernement des États-Unis"
             ]
         }
     ]
