@@ -1,0 +1,107 @@
+{
+    "nom": "Kiyoshi Mukaï",
+    "postes": [
+        {
+            "titre": "Communication Technician",
+            "entreprise": "Association paritaire pour la santé et la sécurité au travail du secteur affaires sociales (ASSTSAS)",
+            "lieu": "Anjou, Qué.",
+            "dates": "Since July 2024",
+            "taches": [
+                "Chillin’"
+            ]
+        },
+        {
+            "titre": "Digital Marketing Coordinator",
+            "entreprise": "Toc Toc Communications",
+            "lieu": "Montréal, Qué.",
+            "dates": "April 2022 to June 2024",
+            "taches": [
+                "Assist project and account managers with the digital aspects of their advertising campaigns",
+                "Work closely with clients to gain approvals on web design layouts, colours and functionality",
+                "Build Web architectures and site maps",
+                "Prepare documents for review by the Pharmaceutical Advertising Advisory Board (PAAB)",
+                "Manage digital projects and coordinate tasks between designers, clients and project leads",
+                "Tag advertising copy with medical references in VeevaVault and prepare submissions to the Ad Standards Council"
+            ]
+        },
+        {
+            "titre": "Barista-Cashier",
+            "entreprise": "Farine et Vanille",
+            "lieu": "Montréal, Qué.",
+            "dates": "March 2022",
+            "taches": [
+                "Gained Canadian work experience upon immigrating to Canada from the United States",
+                "Built track record of interacting with clients in French"
+            ]
+        },
+        {
+            "titre": "Managing Web Producer",
+            "entreprise": "American Physical Society",
+            "lieu": "College Park, Md., USA",
+            "dates": "November 2019 to January 2022",
+            "taches": [
+                "Updated designs and content on the main APS website",
+                "Proposed content strategy and designs to internal stakeholders in helping them redo or launch websites about physics education",
+                "Worked with our marketing team on promoting their events and diversity and inclusion efforts through digital communications channels",
+                "Charted website analytics to help stakeholders best leverage their messaging and content",
+                "Produced and launched a production calendar to ensure that the website stayed updated and allow us to track content production progress with stakeholders"
+            ]
+        },
+        {
+            "titre": "Senior Digital Communications Manager",
+            "entreprise": "Project HOPE",
+            "lieu": "Bethesda, Md., USA",
+            "dates": "March 2018 to October 2019",
+            "taches": [
+                "Led Project HOPE’s website migration to WordPress and coordinated logistics with several internal stakeholders and negotiated contracts with external vendors",
+                "Wrote press releases, blog articles and social media posts for online publication",
+                "Edited videos to showcase Project HOPE’s programs around the world",
+                "Produced infographics in InDesign while incorporating new branding redesign elements",
+                "Interviewed program participants and country directors for podcasts and blog posts",
+                "Developed our Web content strategy in relation to our fundraising efforts and communications needs, including our Giving Tuesday efforts",
+                "Analyzed and tracked our analytics to best leverage our SEO and increase our Web traffic and organic search",
+                "Produced slide decks to showcase our organic search achievements and Web strategy metrics to senior leaders",
+                "Collaborated closely to meet the digital needs of the Direct Response team while advising our Communications team on what content we needed to leverage for the website"
+            ]
+        },
+        {
+            "titre": "Web Services and System Support Specialist",
+            "entreprise": "American Political Science Association",
+            "lieu": "Washington, D.C., USA",
+            "dates": "March 2015 to March 2018",
+            "taches": [
+                "Oversaw and managed the implementation of the association's websites including a staff intranet with a help desk ticketing system",
+                "Installed and configured plugins and themes for a Wordpress multi-site installation",
+                "Provided photography, graphics, video clips, news articles and podcasting for PoliticalScienceNow.com",
+                "Translated surveys and advertising into Canadian French",
+                "Designed prospectus and advertising documents for conference sponsors",
+                "Tracked analytics such as pageviews and click rates to produce reports and make suggestions on improving the user experience",
+                "Designed and sent email marketing newsletters and pulled email lists from member databases"
+            ]
+        },
+        {
+            "titre": "Web Designer (contract)",
+            "entreprise": "Georgetown University",
+            "lieu": "Washington, D.C., USA",
+            "dates": "October 2014 to March 2015",
+            "taches": [
+                "Designed and developed email marketing templates for the McDonough School of Business",
+                "Designed printed flyers, posters and Web graphics using InDesign and Photoshop",
+                "Managed and organized WordPress and Drupal content and configured Web servers",
+                "Consulted with other departments to determine the best ways to promote their programs"
+            ]
+        },
+        {
+            "titre": "Web Producer I (contract)",
+            "entreprise": "iQ Solutions",
+            "lieu": "Rockville, Md., USA",
+            "dates": "April 2014 to October 2014",
+            "taches": [
+                "Performed quality control on several websites and product catalogue pages for healthcare clients including U.S. government agencies",
+                "Drafted email marketing materials, webpages and PDFs and updated webpage content and Web elements",
+                "Reviewed webpages, email content and PDFs for WCAG accessibility standards compliance",
+                "Enforced Web standards policies and performed cross-browser testing"
+            ]
+        }
+    ]
+}
