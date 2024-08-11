@@ -12,7 +12,7 @@
     "construire:images": "imagemin src/images/**/* --out-dir=dist/images",
     "construire:html": "posthtml -c posthtml.json",
     "construire:js": "webpack --mode=production",
-    "executer:tout": "node generer_cv.js && npm run construire:css && npm run construire:images && npm run construire:html && npm run constriure:js"
+    "executer:tout": "node generer_cv.js && npm run construire:css && npm run construire:images && npm run construire:html && npm run construire:js"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.25.3",

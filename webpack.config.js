@@ -1,16 +1,16 @@
 /* eslint-disable no-undef */
 const ESLintPlugin = require('eslint-webpack-plugin');
 
-module.export = {
-    entry: './src/js/main.js',
+module.exports = {
+    entry: './src/js/changerLangue.js',
     output: {
         path: __dirname + '/dist',
-        filename: 'paquet.js'
+        filename: 'changerLangue.js'
     },
     module: {
         rules: [{
             test: /\.m?js$/,
-            exculde: /node_modules/,
+            exclude: /node_modules/,
             use: {
                 loader: 'babel-loader',
                 options: {
