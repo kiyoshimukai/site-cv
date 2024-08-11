@@ -1,0 +1,12 @@
+{
+    "input": "src/vues/composants/cv_*.html",
+    "output": "dist",
+    "plugins": {
+        "posthtml-modules": {
+            "root": "./src/vues",
+            "from": "./src/vues/composants",
+            "initial": true
+        },
+        "htmlnano": {}
+    }
+}

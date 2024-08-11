@@ -10,7 +10,9 @@
     "css:lint": "stylelint src/scss/*.scss --custom-syntax postcss-scss",
     "construire:css": "npm run css:lint && npm run css:scss && npm run css:autoprefixer",
     "construire:images": "imagemin src/images/**/* --out-dir=dist/images",
-    "construire:html": "posthtml -c posthtml.json",
+    "copier:cv": "posthtml -c posthtml.cv.json",
+    "construire:index": "posthtml -c posthtml.index.json",
+    "construire:html" : "npm run construire:index && npm run copier:cv",
     "construire:js": "webpack --mode=production",
     "executer:tout": "node generer_cv.js && npm run construire:css && npm run construire:images && npm run construire:html && npm run construire:js"
   },

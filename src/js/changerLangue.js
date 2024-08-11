@@ -1,6 +1,6 @@
 document.getElementById('drapeau_qc').addEventListener('click', function() {
     // Charger le contenu du CV en québécois
-    fetch('composants/cv_cafr.html')
+    fetch('cv_cafr.html')
         .then(response => response.text())
         .then(data => {
             document.getElementById('cv').innerHTML = data;
@@ -10,7 +10,7 @@ document.getElementById('drapeau_qc').addEventListener('click', function() {
 
 document.getElementById('drapeau_ca').addEventListener('click', function() {
     // Charger le contenu du CV en canadien anglais
-    fetch('composants/cv_caen.html')
+    fetch('cv_caen.html')
         .then(response => response.text())
         .then(data => {
             document.getElementById('cv').innerHTML = data;
