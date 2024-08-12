@@ -45,3 +45,6 @@ genererCV('cv_usen.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_usen.html');
 
 // Générer le CV en espagnol pour Puerto Rico
 genererCV('cv_uses.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_uses.html');
+
+// Génerer le CV en espagnol méxicain
+genererCV('cv_mxes.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_mxes.html');

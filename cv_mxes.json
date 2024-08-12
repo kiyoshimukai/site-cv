@@ -1,0 +1,80 @@
+{
+    "nom": "Kiyoshi Mukaï",
+    "postes": [
+        {
+            "titre": "Coordinador marketing digital",
+            "entreprise": "Toc Toc Comunicaciones",
+            "lieu": "Québec, Canadá",
+            "dates": "Desde abril de 2022",
+            "taches": [
+                "Ayudar con la gestión de proyectos digitales para lanzar sitios para empresas farmacéuticas",
+                "Prestar atención a la aprobación de aplicaciones móviles de salud",
+                "Creer diseños y planes de sitios",
+                "Organizar el trabajo entres nuestros trabajadores independientes, empleados internos y clientes para mantener los proyectos en camino"
+            ]
+        },
+        {
+            "titre": "Productor y gerente Web",
+            "entreprise": "Sociedad estadounidense de física",
+            "lieu": "Maryland, EE. UU.",
+            "dates": "Noviembre de 2019 hasta enero de 2022",
+            "taches": [
+                "Trabajar con equipos en la sociedad para ayudarlos con sus estrategias de contenido y diseño para los sitios de la sociedad y sus clientes",
+                "Analizar el contenido existente en nuestro sitio principal para determinar cómo mejorar la organización tomando en cuenta el comportamiento de los usuarios",
+                "Ayudar al equipo de marketing con la promoción de sus eventos con formularios y páginas Web",
+                "Generar un calendario de producción para mantener el sitio actualizado"
+            ]
+        },
+        {
+            "titre": "Gerente senior de comunicaciones digitales",
+            "entreprise": "Project HOPE",
+            "lieu": "Maryland, EE. UU.",
+            "dates": "Marzo de 2018 hasta octubre de 2019",
+            "taches": [
+                "Hacer la transición del sitio Web a una nueva plataforma y negociar estos contratos con nuestros equipos internos",
+                "Gestionar los canales de redes sociales para mostrar las acciones de nuestros esfuerzos de rehabilitación en el mundo y destacar la necesidad de ayuda en áreas afectadas por desastres naturales",
+                "Escribir comunicados de prensa y artículos",
+                "Conceptualizar nuestra estrategia Web con relación a contenidos en el sitio",
+                "Seguir las acciones de los usuarios en la página principal para mostrar maneras de aumentar la usabilidad y mejorar la cobertura de nuestras historias",
+                "Construir presentaciones para mostrar a los jefes superiores la situación en la industria y como nosotros deberíamos responder con nuestros esfuerzos digitales",
+                "Bien trabajar con el equipo de comunicación para decirle cual tipo de contenido necesitábamos y en cual formato y apoyar el equipo de colecto de fondos para asegurarnos que nuestros contenidos sean integrados"
+            ]
+        },
+        {
+            "titre": "Especialista de sistemas y servicios Web",
+            "entreprise": "Asociación estadounidense de ciencia política",
+            "lieu": "Distrito de Columbia, EE. UU.",
+            "dates": "Marzo de 2015 hasta marzo de 2018",
+            "taches": [
+                "Gestionar bases de datos, ejecutar respuestas y producir reportes de datos",
+                "Instalar opciones de temas y reglas de servidores y configurar una instalación multi-sitio de WordPress",
+                "Publicar fotos, películas editadas, noticias y podcasting en PoliticalScienceNow.com",
+                "Crear y diseñar un prospecto para exhibidores de la conferencia",
+                "Seguir las analíticas para hacer sugerencias y así mejorar la experiencia del usuario"
+            ]
+        },
+        {
+            "titre": "Diseñador Web (contrato)",
+            "entreprise": "Universidad Georgetown",
+            "lieu": "Distrito de Columbia, EE. UU.",
+            "dates": "Octubre de 2014 hasta marzo de 2015",
+            "taches": [
+                "Diseñar y desarrollar modelos de correos electrónicos para la Oficina de marketing y comunicaciones",
+                "Crear contenidos impresos como folletos y posters",
+                "Gestionar y organizar contenidos WordPress y Drupal y configurar servidores Web",
+                "Consultar otros responsables de departamentos con el fin de colaborar sobre las necesidades de comunicaciones electrónicas"
+            ]
+        },
+        {
+            "titre": "Productor Web I (contrato)",
+            "entreprise": "iQ Solutions",
+            "lieu": "Maryland, EE. UU.",
+            "dates": "Abril de 2014 hasta octubre de 2014",
+            "taches": [
+                "Hacer el control de calidad con un gran número de sitios Web para la industria del cuidado de la salud incluyendo agencias gubernamentales estadounidenses",
+                "Crear correos electrónicos y actualizar las páginas Web",
+                "Revisar correos electrónicos, páginas Web y documentos PDF para asegurar que la accesibilidad se conforme a los estándares WCAG"
+            ]
+        }
+    ]
+}

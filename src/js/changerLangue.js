@@ -37,3 +37,13 @@ document.getElementById('drapeau_pr').addEventListener('click', function() {
         })
         .catch(error => console.error('Erreur lors du chargement du CV en espagnol pour Puerto Rico',error));
 });
+
+document.getElementById('drapeau_mx').addEventListener('click', function() {
+    // Changer le contenu du CV en espagnol méxicain
+    fetch('cv_mxes.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('cv').innerHTML = data;
+        })
+        .catch(error => console.error('Erreur lors du chargement du CV en espagnol méxicain', error));
+});
