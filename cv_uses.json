@@ -1,0 +1,72 @@
+{
+    "nom": "Kiyoshi Mukaï",
+    "postes": [
+        {
+            "titre": "Productor y gerente Web",
+            "entreprise": "Sociedad estadounidense de física",
+            "lieu": "College Park, Md.",
+            "dates": "Noviembre de 2019 hasta enero de 2022",
+            "taches": [
+                "Creer y diseñar los sitios y páginas Web como parte de proyectos bajo la Sociedad para promover los conocimientos y programas de diversidad en física",
+                "Trabajar con los equipos de marketing para apoyarlos con sus esfuerzos de eventos",
+                "Dar proposiciones sobre el formato y estrategia Web del sitio principal y otros proyectos del Web",
+                "Tomar notas de lo que podamos hacer mejor en comparación a otros sitios de programación de nuestros vecinos",
+                "Revisar los analíticos para sugerir a nuestros clientes como podamos promocionar el contenido de sus programas"
+            ]
+        },
+        {
+            "titre": "Gerente senior de comunicaciones digitales",
+            "entreprise": "Project HOPE",
+            "lieu": "Bethesda, Md.",
+            "dates": "Marzo de 2018 hasta octubre de 2019",
+            "taches": [
+                "Hacer la transición del sitio a una nueva plataforma, la negociación de estos contratos y la gestión del proyecto con nuestros equipos internos",
+                "Gestionar el contenido en las redes sociales incluyendo la búsqueda de material y construcción de publicaciones",
+                "Diseñar infografías y escribir artículos y comunicados de prensa",
+                "Promocionar nuestro equipo en Loiza sobre su construcción de una torre de agua después del pasado del huracán",
+                "Planificación de la estrategia Web para mejorar nuestra respuesta directa y colección de fondos",
+                "Sostener los equipos de comunicaciones para decirles cuales historias nos necesitaban y trabajar con ellos sobre un calendario de publicaciones",
+                "Sostener el equipo de respuesta directa para bien integrar nuestras estrategias de colectas de fondos",
+                "Hacer diaporamas PowerPoint para hacer presentaciones de analíticas a oficiales séniores para justificar cualquier cambio de estrategia o nueva dirección"
+            ]
+        },
+        {
+            "titre": "Especialista de sistemas y servicios Web",
+            "entreprise": "Asociación estadounidense de ciencia política",
+            "lieu": "Washington, D.C.",
+            "dates": "Marzo de 2015 hasta marzo de 2018",
+            "taches": [
+                "Gestionar bases de datos, ejecutar respuestas y producir reportes de datos",
+                "Instalar y configurar opciones temáticas y reglas del servidor para una instalación multisitio WordPress",
+                "Publicar artículos, fotos, podcasting y películas editadas en PoliticalScienceNow.com",
+                "Gestionar propuestas en un sistema de sumisión",
+                "Crear y diseñar un prospecto para los expositores de la conferencia",
+                "Compilar reportes de datos analíticos como las vistas de páginas y tasas de clics y así hacer sugerencias y mejorar la experiencia del usuario"
+            ]
+        },
+        {
+            "titre": "Diseñador Web (contrato)",
+            "entreprise": "Universidad Georgetown",
+            "lieu": "Washington, D.C.",
+            "dates": "Octubre de 2014 hasta marzo de 2015",
+            "taches": [
+                "Diseñar y desarrollar modelos de correos electrónicos para la Oficina de promoción y comunicaciones",
+                "Crear contenidos impresos como folletos y posters",
+                "Gestionar y organizar contenidos WordPress y Drupal y configurar servidores Web",
+                "Consultar otros responsables de departamentos con el fin de colaborar en las necesidades de comunicaciones electrónicas"
+            ]
+        },
+        {
+            "titre": "Productor Web I (contrato)",
+            "entreprise": "iQ Solutions",
+            "lieu": "Rockville, Md.",
+            "dates": "Abril de 2014 hasta octubre de 2014",
+            "taches": [
+                "Hacer el control de calidad de un gran número de sitios Web para la industria de salud incluyendo agencias gubernamentales federales",
+                "Crear correos electrónicos, páginas Web y documentos PDF",
+                "Revisar correos electrónicos y páginas Web para asegurarnos que la accesibilidad se conforme a la Sección 508",
+                "Trabajar con los estándares Web entre múltiples navegadores"
+            ]
+        }
+    ]
+}

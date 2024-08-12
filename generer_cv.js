@@ -42,3 +42,6 @@ genererCV('cv_caen.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_caen.html');
 
 // Générer le CV en anglais pour les États-Unis
 genererCV('cv_usen.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_usen.html');
+
+// Générer le CV en espagnol pour Puerto Rico
+genererCV('cv_uses.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_uses.html');
