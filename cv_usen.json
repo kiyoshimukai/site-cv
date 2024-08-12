@@ -1,0 +1,72 @@
+{
+    "nom": "Kiyoshi Mukaï",
+    "postes": [
+        {
+            "titre": "Managing Web Producer",
+            "entreprise": "American Physical Society",
+            "lieu": "College Park, Md.",
+            "dates": "November 2019 to January 2022",
+            "taches": [
+                "Created the wireframing, content structure and content strategy for various websites promoting the teaching of physics and diversity within the academic field",
+                "Sketched designs and layouts for websites and proposed them to physics clients",
+                "Updated the main APS website with content and coded design changes",
+                "Performed content audits to determine what information should appear on landing pages, where the calls-to-action should be placed and what content is pertinent to specific audiences",
+                "Worked with stakeholders to help lead their site functionalities and content layouts for their microsite launches",
+                "Launched a production calendar and workflow to ensure content was kept updated and increase the ability to flag stakeholders of potential issues"
+            ]
+        },
+        {
+            "titre": "Senior Digital Communications Manager",
+            "entreprise": "Project HOPE",
+            "lieu": "Bethesda, Md.",
+            "dates": "March 2018 to October 2019",
+            "taches": [
+                "Led the website transition to a WordPress platform and managed the project between internal stakeholders and developers",
+                "Wrote blogs and press releases for online publication",
+                "Managed our social media channels and followed media coverage through Cision",
+                "Developed our Web content strategy in relation to our fundraising efforts and communications needs, including Giving Tuesday efforts and special events",
+                "Interpreted and tracked analytics to best leverage SEO and increase Web traffic and organic search",
+                "Led our homepage strategy through internal tracking metrics and pageviews to determine what stories and elements should appear on the homepage and in what order",
+                "Presented industry and peer research to senior leadership and explained how to leverage the data with the company’s own analytics to increase its competitive edge"
+            ]
+        },
+        {
+            "titre": "Web Services and System Support Specialist",
+            "entreprise": "American Political Science Association",
+            "lieu": "Washington, D.C.",
+            "dates": "March 2015 to March 2018",
+            "taches": [
+                "Transitioned the association’s main website and launched two news and community sites on WordPress",
+                "Oversaw and managed the association’s multisite setup including installing and configuring themes, permissions and server settings",
+                "Provided photography, edited video clips, news articles and podcasting for PoliticalScienceNow.com",
+                "Filmed and interviewed journal editors and members for online video clips",
+                "Designed desktop publishing documents and infographics for conference exhibitors",
+                "Produced Google Analytics reports with page views and click rates to be considered for the site redesign",
+                "Designed and sent email marketing newsletters and pulled contact lists using custom criteria"
+            ]
+        },
+        {
+            "titre": "Web Designer (contract)",
+            "entreprise": "Georgetown University",
+            "lieu": "Washington, D.C.",
+            "dates": "October 2014 to March 2015",
+            "taches": [
+                "Designed and developed email marketing templates for the Office of Marketing and Communications",
+                "Designed printed flyers, posters and Web graphics",
+                "Managed and organized WordPress and Drupal content"
+            ]
+        },
+        {
+            "titre": "Web Producer I (contract)",
+            "entreprise": "iQ Solutions",
+            "lieu": "Rockville, Md.",
+            "dates": "April 2014 to October 2014",
+            "taches": [
+                "Performed quality control on several websites and product catalog pages for healthcare clients including federal government agencies",
+                "Edited email marketing content, webpages and PDF documents for Section 508 compliance",
+                "Updated webpage content and designed Web elements such as buttons and banners",
+                "Enforced Web standards policies and verified cross-browser compatibility"
+            ]
+        }
+    ]
+}

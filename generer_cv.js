@@ -39,3 +39,6 @@ genererCV('cv_cafr.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_cafr.html');
 
 // Générer le CV en anglais
 genererCV('cv_caen.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_caen.html');
+
+// Générer le CV en anglais pour les États-Unis
+genererCV('cv_usen.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_usen.html');
