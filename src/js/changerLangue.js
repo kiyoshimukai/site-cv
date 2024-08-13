@@ -47,3 +47,13 @@ document.getElementById('drapeau_mx').addEventListener('click', function() {
         })
         .catch(error => console.error('Erreur lors du chargement du CV en espagnol méxicain', error));
 });
+
+document.getElementById('drapeau_gt').addEventListener('click', function() {
+    // Changer le contenu du CV en espagnol guatémaltèque
+    fetch('cv_gtes.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('cv').innerHTML = data;
+        })
+        .catch(error => console.error('Erreur lors du chargement du CV en espagnol guatémaltèque'));
+});
