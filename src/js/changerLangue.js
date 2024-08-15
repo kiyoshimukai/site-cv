@@ -57,3 +57,13 @@ document.getElementById('drapeau_gt').addEventListener('click', function() {
         })
         .catch(error => console.error('Erreur lors du chargement du CV en espagnol guatémaltèque'));
 });
+
+document.getElementById('drapeau_hn').addEventListener('click', function() {
+    // Changer le contenu du CV en espagnol hondurien
+    fetch('cv_hnes.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('cv').innerHTML = data;
+        })
+        .catch(error => console.error('Erreur lors du chargement du CV en espagnol hondurien', error));
+});

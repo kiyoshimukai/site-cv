@@ -51,3 +51,6 @@ genererCV('cv_mxes.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_mxes.html');
 
 // Générer le CV en espagnol guatémaltèque
 genererCV('cv_gtes.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_gtes.html');
+
+// Générer le CV en espangol hondurien
+genererCV('cv_hnes.json', 'gabarit_cv.ejs', 'src/vues/composants/cv_hnes.html');
